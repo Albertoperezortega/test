@@ -6,21 +6,25 @@
 
     <groupId>com.napier.sem</groupId>
     <artifactId>seMethods</artifactId>
+    <!--Stating the version number-->
     <version>0.1.0.2</version>
 
     <properties>
+    <!--Choosing the Maven compiler version-->
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
     <dependencies>
         <dependency>
+            <!--Importing mongodb functionality-->
             <groupId>org.mongodb</groupId>
             <artifactId>mongodb-driver</artifactId>
             <version>3.6.4</version>
         </dependency>
     </dependencies>
 
+    <!--Defining how Maven assembles the JAR file-->
     <build>
         <plugins>
             <plugin>
@@ -30,6 +34,7 @@
                 <configuration>
                     <archive>
                         <manifest>
+                            <!--Telling Maven which class to run-->
                             <mainClass>com.napier.sem.App</mainClass>
                         </manifest>
                     </archive>
