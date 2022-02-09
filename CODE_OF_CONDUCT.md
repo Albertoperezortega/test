@@ -8,17 +8,16 @@ Examples of behavior that contributes to creating a positive environment include
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
 - Attempting collaboration before conflict
-- Focusing on what is best for the community
 - Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
+- Not showing up to a meeting
 - Violence, threats of violence, or inciting others to commit self-harm
 - The use of sexualized language or imagery and unwelcome sexual attention or advances
 - Trolling, intentionally spreading misinformation, insulting/derogatory comments, and personal or political attacks
 - Public or private harassment
 - Publishing others' private information, such as a physical or electronic address, without explicit permission
-- Abuse of the reporting process to intentionally harass or exclude others
 - Advocating for, or encouraging, any of the above behavior
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
@@ -30,4 +29,4 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Enforcement
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined on case by case by other members of the project.
